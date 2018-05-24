@@ -1,2 +1,2 @@
-# analyzer
-Compiler principle analyzer
+# Compiler
+Compiler principle course project
